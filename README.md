@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-# I'm Abhishek Singh |[Abhishek-Singh296](https://github.com/Abhishek-Singh296)
+# I'm Abhishek Singh | [Abhishek-Singh296](https://github.com/Abhishek-Singh296)
 
 ## I'm a student👨🏻‍🎓 at Symbiosis Institute of Technology, Pune, India 🏫
 ---
