@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 😻 Enthusiast of VLSI and Electronic Circuit Designing
 - 💬 Ask me about: VLSI
 - 💻 In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- 🔭 Check out my [Hackerank Profile][https://www.hackerrank.com/singhabhishek291]!
+- 🔭 Check out my [Hackerank Profile](https://www.hackerrank.com/singhabhishek291)!
 ### Connect with me:
 
 <div id="badges">
