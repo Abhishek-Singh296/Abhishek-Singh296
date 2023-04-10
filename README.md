@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 # I'm Abhishek Singh.
 
 ## I'm a student at Symbiosis Institute of Technology👨🏻‍🎓
+---
+
+### :man_technologist: About Me :
 - 🔭 Check out my [Hackerank Profile][https://www.hackerrank.com/singhabhishek291]!
 - 🌱 I’m currently pursuing Bachelor's of Technology in Electronics and Tele-communication Engineering🏫
 - 🥅 2022 Goals: Learn more about Data Structures using C
