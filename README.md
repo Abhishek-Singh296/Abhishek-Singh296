@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # I'm Abhishek Singh.
 
-## I'm a student at Symbiosis Institute of Technology👨🏻‍🎓
+## I'm a student👨🏻‍🎓 at Symbiosis Institute of Technology, Pune, India 🏫
 ---
 
 ### :man_technologist: About Me :
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to draw and shoot aesthetics📸
 - 😻 Enthusiast of VLSI and Electronic Circuit Designing
 - 💬 Ask me about: VLSI
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 💻 In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 🔭 Check out my [Hackerank Profile][https://www.hackerrank.com/singhabhishek291]!
 ### Connect with me:
 
