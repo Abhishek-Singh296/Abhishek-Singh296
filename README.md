@@ -27,4 +27,8 @@ Here are some ideas to get you started:
 - 😻 Enthusiast of VLSI and Electronic Circuit Designing
 
 ### Connect with me:
-[<image align="left" alt="Abhishek-Singh296 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/abhishek-kumar-singh-851919220/]
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
