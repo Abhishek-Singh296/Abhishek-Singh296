@@ -32,12 +32,13 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-- 🔭 Check out my [Hackerank Profile][https://www.hackerrank.com/singhabhishek291]!
 - 🌱 I’m currently pursuing Bachelor's of Technology in Electronics and Tele-communication Engineering🏫
-- 🥅 2022 Goals: Learn more about Data Structures using C
+- 🥅 2023 Goals: Learn more about VLSI & Data Structures using C
 - ⚡ Fun fact: I love to draw and shoot aesthetics📸
 - 😻 Enthusiast of VLSI and Electronic Circuit Designing
 - 💬 Ask me about: VLSI
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 Check out my [Hackerank Profile][https://www.hackerrank.com/singhabhishek291]!
 ### Connect with me:
 
 <div id="badges">
