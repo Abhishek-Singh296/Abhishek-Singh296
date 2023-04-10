@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about: VLSI
 - 💻 In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 🔭 Check out my [Hackerank Profile](https://www.hackerrank.com/singhabhishek291)!
+<br>
 ### Connect with me:
 
 <div id="badges">
