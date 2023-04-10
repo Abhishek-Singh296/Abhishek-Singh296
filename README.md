@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Connect with me:
+### Connect with me 🤝
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/abhishek-kumar-singh-851919220/">
@@ -61,6 +61,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  
 ---
+
+### 🔥My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhishek-Singh296)](https://git.io/streak-stats)
   
