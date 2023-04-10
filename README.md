@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-#### I'm Abhishek Singh.
+# I'm Abhishek Singh.
 
 ## I'm a student at Symbiosis Institute of Technology👨🏻‍🎓
 - 🔭 Check out my [Hackerank Profile][https://www.hackerrank.com/singhabhishek291]!
