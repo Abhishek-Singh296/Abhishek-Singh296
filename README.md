@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 💻 In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 🔭 Check out my [Hackerank Profile](https://www.hackerrank.com/singhabhishek291)!
 
-<br>
+<br />
 
 ### Connect with me:
 
